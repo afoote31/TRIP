@@ -1,6 +1,6 @@
 # TRIP
 
-This repository contains the code for replicating the analysis and visuals presented in .... This paper is a distillation of my master's thesis, which I completed under the mentorship of Danny Krizanc, with lots of really valuable input from Professor Valerie Nazzaro. The thesis should be under an embargo until May 2026, but hopefully there will be a paper on the internet you can check out! If you don't see anything linked here it probably means that we haven't published anything yet :(. Below is a table with file names and a description of the code that is in each.
+This repository contains the code for replicating the analysis and visuals presented in TRIP: A Nonparametric Test to Diagnose Biased Feature Importance Scores. This paper is a distillation of my master's thesis, which I completed under the mentorship of Danny Krizanc, with lots of really valuable input from Professor Valerie Nazzaro. I'll be presenting this work as an oral presentation at IJCAI 2025, in the Workshop on Explainable Artificial Intelligence. The thesis should be under an embargo until May 2026, but hopefully there will be a paper on the internet you can check out! Below is a table with file names and a description of the code that is in each.
 
 
 | File | Description |
